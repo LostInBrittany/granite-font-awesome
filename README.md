@@ -40,7 +40,7 @@ Usually you will simply want to import `granite-font-awesome.html` (wrap around 
 Supossing you're using the standard folder locations for your components:
  
 ```
-<link rel="import" href="../granite-font-awesome/granite-font-awesome.html">
+<link rel="import" href="../granite-font-awesome/elements/granite-font-awesome.html">
 ``` 
 
 #### 3. Inside your component, use *granite-font-awesome* as shared style
