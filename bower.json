@@ -11,14 +11,14 @@
     "boostrap"
   ],
   "main": "granite-font-awesome-min.html",  
-  "license": "MIT",
+  "license": "Apache-2.0",
   "homepage": "https://github.com/LostInBrittany/granite-font-awesome",
   "ignore": [],
   "dependencies": {
     "polymer": "Polymer/polymer#1.9 - 2"
   },
   "devDependencies": {
-    "font-awesome": "3.3.7",
+    "font-awesome": "4.7.0",
     "iron-component-page": "PolymerElements/iron-component-page#1 - 2",
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#1 - 2",
     "iron-icon": "PolymerElements/iron-icon#1 - 2",
@@ -34,7 +34,7 @@
         "polymer": "Polymer/polymer#^1.9"
       },
       "devDependencies": {
-        "font-awesome": "3.3.7",
+        "font-awesome": "4.7.0",
         "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
         "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
         "iron-icon": "PolymerElements/iron-icon#^1.0.0",
